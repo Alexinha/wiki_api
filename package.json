@@ -1,17 +1,16 @@
 {
-  "name": "wiki-api",
+  "name": "s31-wiki-api",
   "version": "1.0.0",
-  "description": "build a restful api",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alexina Chang",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.2",
-    "ejs": "^3.1.9",
-    "express": "^4.18.2",
-    "mongoose": "^7.1.0"
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
   }
 }
